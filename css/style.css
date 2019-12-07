@@ -1,0 +1,17 @@
+ul>li{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#firstimg{
+    background-image: url(../asserts/image/3TB9dm.jpg);
+}
+#secondimg{
+    background-image: url(../asserts/image/download.jpg);
+}
+#thirdimg{
+    background-image: url(../asserts/image/module-6.jpg);
+}
